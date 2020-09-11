@@ -1,0 +1,18 @@
+---
+title: 'Recitation #1: Practice Questions'
+author: "Tyler Simko"
+date: "9/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Let's replicate this plot together!
+
+
+```{r}
+knitr::include_graphics("example_plot.png")
+```
